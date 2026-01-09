@@ -1,4 +1,4 @@
-# Hi, I’m Mr. Vaidya 👋
+# Hi, I’m Raghav Vaidya 👋
 
 I’m a Computer Science student at Kathmandu University who enjoys understanding **how things work under the hood** — not just using tools, but questioning them.
 
@@ -38,7 +38,8 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav-Vaidya269)
+)
 
 ---
 
