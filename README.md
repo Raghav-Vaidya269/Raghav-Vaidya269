@@ -40,4 +40,5 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 
 ## 🌐 Connect With Me 
 - 💼 LinkedIn: https://www.linkedin.com/in/raghav-vaidya-b35a9635a/
+- 📸 Instagram: https://www.instagram.com/vivaraghav_/
 
