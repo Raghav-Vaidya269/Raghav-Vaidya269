@@ -19,7 +19,7 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 ## 💻 Tech Stack
 
 **Languages**
-- C, C++, JavaScript
+![My Skills](https://skillicons.dev/icons?i=c,cpp,js)
 
 **Web**
 - HTML5, CSS3  
@@ -28,18 +28,12 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 
 **Tools**
 - Git & GitHub
-- 
+  
 ---
 
 ## 📌 Current Projects
 - 🛒 **C2C E-commerce Backend**  
   Building authentication, item listings, uploads, and database logic using Express + MySQL.
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav-Vaidya269)
-)
 
 ---
 
