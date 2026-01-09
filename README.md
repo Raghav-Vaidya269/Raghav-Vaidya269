@@ -18,7 +18,7 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 
 ## 💻 Tech Stack
 
-**Languages**
+#Languages learnt so far
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,js)
 
 **Web**
