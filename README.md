@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I’m Mr. Vaidya 👋
 
-<!--
-**Raghav-Vaidya269/Raghav-Vaidya269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at Kathmandu University who enjoys understanding **how things work under the hood** — not just using tools, but questioning them.
 
-Here are some ideas to get you started:
+Right now, I’m diving into **web backend development**, where logic, data, and real-world constraints collide in interesting ways. I’m currently building the backend for a **C2C e-commerce platform**, working with **Express.js** and **MySQL**, and learning firsthand what breaks when theory meets production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn best by building, breaking, and rebuilding — each project is an excuse to go a little deeper than last time.
+
+---
+
+## 🧠 What I’m Focused On
+- Backend development with Node.js & Express  
+- Designing databases that don’t collapse under bad assumptions  
+- Writing code that is readable *and* correct  
+- Turning “I kind of get it” into “I can explain it”
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- C, C++, JavaScript
+
+**Web**
+- HTML5, CSS3  
+- Node.js, Express  
+- MySQL
+
+**Tools**
+- Git & GitHub
+- 
+---
+
+## 📌 Current Projects
+- 🛒 **C2C E-commerce Backend**  
+  Building authentication, item listings, uploads, and database logic using Express + MySQL.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me 
+- 💼 LinkedIn: https://www.linkedin.com/in/raghav-vaidya-b35a9635a/
+
