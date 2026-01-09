@@ -1,4 +1,4 @@
-# Hi, I’m Raghav Vaidya 👋
+# Hi, I’m Raghav Vaidya
 
 I’m a Computer Science student at Kathmandu University who enjoys understanding **how things work under the hood** — not just using tools, but questioning them.
 
@@ -18,7 +18,7 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 
 ## 💻 Tech Stack
 
-## Languages Learned So Far
+## Programming Languages (Academic / Working Knowledge)
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js,py" height="48" />
 
