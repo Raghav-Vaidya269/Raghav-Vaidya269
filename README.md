@@ -18,8 +18,9 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 
 ## 💻 Tech Stack
 
-#Languages learnt so far
-![My Skills](https://skillicons.dev/icons?i=c,cpp,js)
+## Languages Learned So Far
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,py" height="48" />
 
 **Web**
 - HTML5, CSS3  
