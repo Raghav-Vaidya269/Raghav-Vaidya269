@@ -2,7 +2,7 @@
 
 I’m a Computer Science student at Kathmandu University who enjoys understanding **how things work under the hood** — not just using tools, but questioning them.
 
-Right now, I’m diving into **web backend development**, where logic, data, and real-world constraints collide in interesting ways. I’m currently building the backend for a **C2C e-commerce platform**, working with **Express.js** and **MySQL**, and learning firsthand what breaks when theory meets production.
+Right now, I’m diving into **web backend development**, where logic, data, and real-world constraints collide in interesting ways. 
 
 I learn best by building, breaking, and rebuilding — each project is an excuse to go a little deeper than last time.
 
