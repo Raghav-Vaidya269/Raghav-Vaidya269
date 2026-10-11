@@ -22,13 +22,12 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js,py" height="48" />
 
-**Web**
-- HTML5, CSS3  
-- Node.js, Express  
-- MySQL
 
-**Tools**
-- Git & GitHub
+- HTML5, CSS3  
+- Node.js, Python 
+- MySQL, PostGresql
+
+
   
 ---
 
