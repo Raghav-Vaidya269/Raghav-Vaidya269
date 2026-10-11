@@ -27,17 +27,8 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 - Node.js, Python 
 - MySQL, PostGresql
 
-
-  
----
-
-## 📌 Current Projects
-- 🛒 **C2C E-commerce Backend**  
-  Building authentication, item listings, uploads, and database logic using Express + MySQL.
-
 ---
 
 ## 🌐 Connect With Me 
 - 💼 LinkedIn: https://www.linkedin.com/in/raghav-vaidya-b35a9635a/
-- 📸 Instagram: https://www.instagram.com/vivaraghav_/
 
