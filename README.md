@@ -2,9 +2,8 @@
 
 I’m a Computer Science student at Kathmandu University who enjoys understanding **how things work under the hood** — not just using tools, but questioning them.
 
-Right now, I’m diving into **web backend development**, where logic, data, and real-world constraints collide in interesting ways. 
 
-I learn best by building, breaking, and rebuilding — each project is an excuse to go a little deeper than last time.
+I learn best by building, breaking, and rebuilding, each project is an excuse to go a little deeper than last time.
 
 ---
 
@@ -23,7 +22,7 @@ I learn best by building, breaking, and rebuilding — each project is an excuse
 <img src="https://skillicons.dev/icons?i=c,cpp,js,py" height="48" />
 
 
-- HTML5, CSS3  
+-C/C++
 - Node.js, Python 
 - MySQL, PostGresql
 
